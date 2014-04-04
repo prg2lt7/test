@@ -15,5 +15,7 @@ public class Test {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        String s = "Hallo LT7";
+        System.out.println(s);
     }
 }
